@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Urvashi Zinzuvadiya 👋
 
-<!--
-**urvashicodes7211/urvashicodes7211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
+💻 Passionate about Programming and Web Development
+🌱 Currently learning new technologies and building projects
+🚀 Exploring software development through academic and personal projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- C
+- Java
+- Python
+
+### Web Technologies
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- JavaScript
+
+### Database
+- T-SQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- MS Excel
+- MS Word
+- PowerPoint
+
+## 📚 Academic Repositories
+
+- Front-End Web Technology Lab
+- Web Designing Lab
+- Data Structure Lab
+- Java Lab
+- C Programming Lab
+- T-SQL Lab
+- Office Automation Tools Lab
+
+## 🎯 Interests
+
+- Web Development
+- Software Development
+- UI Design
+- Problem Solving
+- Open Source Learning
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/urvashicodes7211
+- LinkedIn: www.linkedin.com/in/urvashi-zinzuvadiya-61489037a
+
+---
+
+⭐ Thanks for visiting my profile!
